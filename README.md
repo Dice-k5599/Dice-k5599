@@ -65,9 +65,9 @@
 <br/>
 
 ## Top Open Source -
-[![Face Recognition Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Dice-k5599&repo=facerecognitionbrain&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Face Recognition Backend](https://github-readme-stats.vercel.app/api/pin/?username=Dice-k5599&repo=smart-brain-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![ClassSync Project](https://github-readme-stats.vercel.app/api/pin/?username=Dice-K5599&repo=CS35L_Final_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dice-k5599/LFRPod)
+[![Face Recognition Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Dice-k5599&repo=facerecognitionbrain&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/urfolio](https://github.com/Dice-k5599/facerecognitionbrain))
+[![Face Recognition Backend](https://github-readme-stats.vercel.app/api/pin/?username=Dice-k5599&repo=smart-brain-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/alsiam/web-projects](https://github.com/Dice-k5599/smart-brain-api))
+[![ClassSync Project](https://github-readme-stats.vercel.app/api/pin/?username=Dice-K5599&repo=CS35L_Final_Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/Dice-k5599/LFRPod](https://github.com/Dice-k5599/CS35L_Final_Project))
 [![robofriends](https://github-readme-stats.vercel.app/api/pin/?username=Dice-k5599&repo=react_robofriends&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dice-k5599/react_robofriends)
 
 <p align="left">
